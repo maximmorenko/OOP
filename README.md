@@ -2,7 +2,7 @@
 трансформеры
 
 git add .
-git commit -m "абстрактные классы"
+git commit -m "полиморфизм"
 git push origin master
 
 Объектно-Ориентированное Программирование
