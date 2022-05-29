@@ -2,7 +2,7 @@
 трансформеры
 
 git add .
-git commit -m "полиморфизм"
+git commit -m "инкапсуляция"
 git push origin master
 
 Объектно-Ориентированное Программирование
