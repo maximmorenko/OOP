@@ -2,7 +2,7 @@
 трансформеры
 
 git add .
-git commit -m "наследование"
+git commit -m "абстрактные классы"
 git push origin master
 
 Объектно-Ориентированное Программирование
